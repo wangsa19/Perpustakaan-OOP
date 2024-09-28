@@ -1,0 +1,20 @@
+Java Basics,John Doe,123456,2020,true
+Data Structures,Jane Smith,654321,2019,true
+Introduction to Algorithms,Thomas H. Cormen,987654,2018,true
+Effective Java,Joshua Bloch,111213,2021,true
+Design Patterns,Erich Gamma,141516,2017,true
+Clean Code,Robert C. Martin,171819,2020,true
+The Pragmatic Programmer,Andrew Hunt,202122,2019,true
+Head First Java,Kathy Sierra,232425,2020,true
+Java Concurrency in Practice,Brian Goetz,262728,2019,true
+Spring in Action,Craig Walls,293031,2021,true
+Java: The Complete Reference,Herbert Schildt,323334,2020,true
+Learning Java,Building Java Programs,353637,2018,true
+Java Cookbook,Ian Darwin,383940,2020,true
+Java Performance,Scott Oaks,414243,2021,true
+Programming in Java,Carlo C. B. Dello,444546,2019,true
+Core Java Volume I,Cay S. Horstmann,474849,2020,true
+Java All-in-One For Dummies,Doug Lowe,505152,2021,true
+Java 8 in Action,Raoul-Gabriel Urma,535455,2019,true
+Beginning Java 8 Fundamentals,Kishori Sharan,565758,2020,true
+Java Programming and Problem Solving,Lana L. S. Meyer,596061,2021,true
